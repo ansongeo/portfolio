@@ -1,5 +1,5 @@
 var typed = new Typed(".typing", {
-  strings: ["", "Student", "Software Engineer", "AI Engineer", "ML Engineer"],
+  strings: ["", "Student", "AI/ML Engineer", "Data Scientist"],
   typeSpeed: 100,
   BackSpeed: 60,
   loop: true
